@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #330000;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+img {
+  height: 350px;
+  width: 450px;
+}
+
+h1 {
+  font-family: "Lucida Console", Times, serif;
+  font-size: 55px;
+  color: #00004d;
+}
+
+#main {
+  width: 55%;
+  height: 75%;
+  display: grid;
+  justify-items: center;
+  border-radius: 20px;
+  background-color: #e6ffff;
+}
+
+.usernamenPass {
+  border-bottom: 2px solid black;
+  margin-bottom: 11px;
+  border-radius: 5px;
+  padding: 5px 5px 5px 5px;
+  align-self: flex-start;
+  display: grid;
+}
+
+#submitBttn {
+  width: 100%;
+  padding: 7px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  background-color: #3a3a3a;
+}
