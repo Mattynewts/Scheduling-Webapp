@@ -1,0 +1,36 @@
+.top {
+  margin-left: 500px;
+}
+#tabs {
+  margin-top: -40px;
+  margin-left: 300px;
+}
+
+h1 {
+  font-size: 30px;
+  width: 400px;
+
+}
+
+hr {
+  margin-top:-100px;
+  height: 120px;
+  background-color: white;
+  width: 100%;
+}
+
+
+body {
+
+  background-color: #ccffff;
+}
+
+img {
+  margin-left: 220px;
+  height: 850px;
+  width: 1400px;
+}
+h3 {
+  font-size: 22px;
+  color: #990000;
+}

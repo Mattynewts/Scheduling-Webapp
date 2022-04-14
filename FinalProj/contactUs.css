@@ -1,0 +1,100 @@
+body {
+
+  background-color: #ccffff;
+}
+h1 {
+  font-size: 70px;
+  width: 400px;
+
+}
+
+p {
+  margin-left: 50px;
+  font-size: 30px;
+}
+
+
+textarea {
+  width: 350px;;
+  border: 1px solid black;
+  outline: none;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+button {
+  background: #009999;
+  width: 120px;
+  color: white;
+  height: 35px;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+img {
+  height: 300px;
+  width: 380px;
+  margin-left: -750px;
+  margin-top: -100px;
+}
+
+hr {
+  margin-top:-100px;
+  height: 120px;
+  background-color: white;
+  width: 100%;
+}
+
+h3 {
+  font-size: 22px;
+  color: #990000;
+}
+
+.container {
+
+  width:300px;
+  margin-top: 200px;
+  margin-left: 120px;
+
+}
+
+.form-portion {
+
+  margin-top: -300px;
+  margin-left: 900px;
+  font-size: 23px;
+
+}
+
+.top {
+  margin-left: 500px;
+}
+
+#tabs {
+  margin-top: -40px;
+  margin-left: 300px;
+}
+#sch {
+  font-size: 30px;
+
+}
+#fname {
+  border-radius: 5px;
+  height: 30px;
+  margin-top: 5px;
+}
+
+#lname {
+  border-radius: 5px;
+  height: 30px;
+  margin-top: 5px;
+}
+
+
+#email {
+  margin-top: 5px;
+  width:350px;
+  border-radius: 5px;
+  height: 30px;
+}
